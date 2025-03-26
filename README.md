@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi~ there 👋
 
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxscWo1dTJudzFoN2kwcjZqa3Q5YjQ1azEzZ2tqajFucGN5cnJlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cQSjIBgUC2NbMKEm9q/giphy.gif" width="100"/>
@@ -12,7 +12,7 @@ I'm a **Soft-En Student** who exploring of **Data** and **Tech**!
 
 
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -31,15 +31,11 @@ I'm a **Soft-En Student** who exploring of **Data** and **Tech**!
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
-### 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 <p align="center">
   <img width="344px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pimphaaa&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Pimphaaa&theme=bear&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" />
   <img width="450px" src="https://nirzak-streak-stats.vercel.app/?user=Pimphaaa&theme=bear&hide_border=false" />
 </p>
-
-
-
-
-
 
