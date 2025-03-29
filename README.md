@@ -10,8 +10,10 @@ I'm a **Soft-En Student** who exploring of **Data** and **Tech**!
 💡 Interest about **Data Analyst** and **Data Science**.  
 🚌 A proud **Bus stan**—supporting ❤️
 
+<!-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pimpha-wongpracha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Pimpha0011@gmail.com) 
+-->
 
 
 ## 💻 Tech Stack:
